@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on a AgriTech Startup<br>- 🌱 I’m currently learning Rust<br>- 👯 I’m looking to collaborate on Networking and Infrastructure<br><!--- 🤔 I’m looking for help with ...--><br>- 💬 Ask me about IT<br><!--- 📫 How to reach me: ...--><br>- ⚡ Fun fact: Bluetooth technology is named after a 10th-century Scandinavian king<br> Harald "Bluetooth" Gormsson<br> who united Denmark and Norway<br> —just as Bluetooth unites devices.
+- 🔭 I’m currently working on a AgriTech Startup<br>- 🌱 I’m currently learning Rust<br>- 👯 I’m looking to collaborate on Networking and Infrastructure<br><!--- 🤔 I’m looking for help with ...--><br>- 💬 Ask me about IT<br><!--- 📫 How to reach me: ...--><br>- ⚡ Fun fact: <br> Bluetooth technology is named after a 10th-century Scandinavian king<br> Harald "Bluetooth" Gormsson<br> who united Denmark and Norway<br> 
+just as Bluetooth unites devices.
 
 
 ## 🌐 Socials:
