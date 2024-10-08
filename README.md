@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on a AgriTech Startup<br>
-- 🌱 I’m currently learning Rust and Cybersecurity<br>
+- 🌱 I’m currently learning Dart/Flutter and Cybersecurity<br>
 - 👯 I’m looking to collaborate on Networking and Infrastructure<br>
 - 💬 Ask me about IT<br>
 <!--- 🤔 I’m looking for help with ...-->
