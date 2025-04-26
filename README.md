@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on a AgriTech Startup<br>
-- 🌱 I’m currently learning Remix and IOT Cybersecurity<br>
+- 🌱 I’m currently learning Remix and IOT security<br>
 - 👯 I’m looking to collaborate on Networking and IT Infrastructure<br>
 - 💬 Ask me about IT<br>
 <!--- 🤔 I’m looking for help with ...-->
